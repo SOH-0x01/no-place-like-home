@@ -1,0 +1,63 @@
+# Python Module Requirement 
+## System
+setuptools
+virtualenv
+cython
+## Core
+numpy
+scipy
+sympy
+pandas
+seaborn
+jupyter
+SQLAlchemy
+## Common
+jinja2
+marshmallow
+pyyaml
+h5py
+## Notebook addons
+ipyparralel
+ipywidget
+ipykernel
+nbviewer
+nbconvert
+## Alchemy driver and database access
+pymysql
+pymango
+pydruid
+## DS essentials
+statsmodels
+networkx
+scikit-learn
+scrapy
+spacy
+keras
+## DS Situational
+chronyk
+gensim
+lda
+kakfa-python
+python-parqueta
+## DS api
+tweepy
+quandl
+### Web ###
+twisted
+requests
+requests_oauth
+flask
+flask_socketio
+eve
+eve_sqlalchemy
+eve_swagger
+## Tools 
+csvkit
+cs
+ansible
+eg
+twisted
+cookiecutter
+s4cmd
+errbot
+# END 
